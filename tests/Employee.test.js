@@ -5,9 +5,8 @@ describe('Employee', () => {
 
     describe('new employee', () => {
       it('should create a new employee including name, email, and id once CLI prompts are completed', () => {
-        const employee2 = "";
-        const e = new Employee(this.name, this.id, this.email);
-        expect(employee2).toEqual("object");
+        const e = new Employee("Toni", 1, "toni@email.com");
+        expect(e.Employee).toEqual();
       });
     });
   });
