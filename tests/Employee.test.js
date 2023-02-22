@@ -11,13 +11,3 @@ describe('Employee', () => {
     });
   });
   
-
-
-  // describe('new employee', () => {
-  //   it('should create a new employee including name, email, and id once CLI prompts are completed', () => {
-  //     const e = new Employee(this.name, this.id, this.email);
-  //     expect(typeof(e)).toEqual("object");
-  //   });
-  // });
-
-
