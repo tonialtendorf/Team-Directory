@@ -24,8 +24,6 @@
   Click on video to play.
 [![ReadME Generator Demo](https://img.youtube.com/vi/Gt3naRDuhZk/0.jpg)](https://www.youtube.com/watch?v=Gt3naRDuhZk)
 
-![ReadMe](https://user-images.githubusercontent.com/117392154/218803557-d42bf6f9-6946-4e4d-9026-35643ca2801b.png)
-
   
   ## Credits
 	- https://www.w3schools.com/howto/howto_css_team.asp
