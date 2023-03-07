@@ -22,7 +22,7 @@
   Refer to video demo in readme file
   
   Click on video to play.
-[![ReadME Generator Demo](https://img.youtube.com/vi/Gt3naRDuhZk/0.jpg)](https://www.youtube.com/watch?v=Gt3naRDuhZk)
+[![ReadME Generator Demo](https://img.youtube.com/vi/Vk7ATcXnEtE/0.jpg)](https://www.youtube.com/watch?v=Vk7ATcXnEtE)
 
   
   ## Credits
